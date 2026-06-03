@@ -54,32 +54,15 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SAJAL-MONDAL-14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SAJAL-MONDAL-14&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SAJAL-MONDAL-14&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SAJAL-MONDAL-14&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
-</p>
-
----
-
 ## 📌 Pinned Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [MedConnect](https://github.com/SAJAL-MONDAL-14/MedConnect) | Healthcare connectivity platform | TypeScript |
+| [MedConnect](https://github.com/SAJAL-MONDAL-14/MedConnect) | Healthcare connectivity platform | JavaScript |
 | [qmm-cardionet](https://github.com/SAJAL-MONDAL-14/qmm-cardionet) | ML-based cardiac classification | Python |
 | [chatbot-deployment](https://github.com/SAJAL-MONDAL-14/chatbot-deployment) | Full-stack chatbot with deployment pipeline | CSS, JS |
-| [My_monastery360](https://github.com/SAJAL-MONDAL-14/My_monastery360) | Web project — monastery discovery platform | HTML |
-| [Project-1_Color_Changer](https://github.com/SAJAL-MONDAL-14/Project-1_Color_Changer) | Color changer practice project | CSS |
+| [My_monastery360](https://github.com/SAJAL-MONDAL-14/My_monastery360) | Web project — monastery discovery platform | HTML, |CSS
+| [Project-1_Color_Changer](https://github.com/SAJAL-MONDAL-14/Project-1_Color_Changer) | Color changer practice project | HTML, CSS, js |
 
 ---
 
