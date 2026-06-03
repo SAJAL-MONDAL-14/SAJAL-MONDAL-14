@@ -28,15 +28,23 @@
 ### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,nodejs,express" />
 </p>
 
 ### ML & Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,keras" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=013243" height="48" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=150458" height="48" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="50"/>
+</p>
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
 ### Cloud & Tools
